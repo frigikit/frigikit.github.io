@@ -336,7 +336,7 @@ div {
 .welcomeButton:hover,
 .welcomeButton:focus {
   background-color: #fff;
-  color: #0bc2cf;
+  color: #3BBEFF;
 }
 
 @media only screen and (max-width: 950px) {
